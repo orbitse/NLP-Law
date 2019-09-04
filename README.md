@@ -27,7 +27,7 @@ The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for
 
 [California Civic Data Coalition](http://cjlab.stanford.edu/projects/california-civic-data-coalition/) is a partnership between the Los Angeles Times Data Desk, the San Francisco Chronicle, The Center for Investigative Reporting and Stanford’s Computational Journalism Lab. The Coalition's purpose is to "create software that makes California's public data easier to analyze." To that end, the Coalition makes open-source software and campaign finance data available at https://www.californiacivicdata.org. The data comes from the California Secretary of State's non-user friendly CAL-ACCESS database, consisting of 80 database tables.   
 
-### Relevant Companies  
+### Example Companies  
 
 [Bloomberg Law](https://pro.bloomberglaw.com/ai-analytics/) provides several AI tools along with 13+ million published and unpublished state and federal court opinions. With "Litigation Analytics," users can search by company, law firm, attorney, and judge, then "[v]isualize trends, predict outcomes, and develop an informed strategy." "Points of Law" applies machine learning to case law research so users can "[q]uickly find the leading case, the essence of a court’s holding, and the best language to support your legal argument."  
 
@@ -37,45 +37,19 @@ The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for
 
 ### Relevant Papers ###
 
-#### &nbsp;&nbsp;&nbsp;2014 ####
+#### &nbsp;&nbsp;&nbsp;2019 ####
 
-- __Machine Learning and Law__ (2014). Harry Surden, Washington Law Review, Vol. 89, No. 1, (March 26, 2014). [[PDF](https://ssrn.com/abstract=2417415)]  
-From Abstract: This Article explores the application of machine learning techniques within the practice of law. Broadly speaking “machine learning” refers to computer algorithms that have the ability to “learn” or improve in performance over time on some task. In general, machine learning algorithms are designed to detect patterns in data and then apply these patterns going forward to new data in order to automate particular tasks. If performing well, machine learning algorithms can produce automated results that approximate those that would have been made by a similarly situated person.  
+- **Chat Analysis Triage Tool: Differentiating contact-driven vs. fantasy-driven child sex offenders** (2019), Kathryn C Seigfried-Spellar et al. Forensic Science International (Online); DOI:10.1016/j.forsciint.2019.02.028  
+From Abstract: The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
 
-#### &nbsp;&nbsp;&nbsp;2016 ####
+- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service** (2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)  
+From Abstract: Terms of service of on-line platforms often contain clauses that are potentially unfair to the consumer. This paper describes an experimental study where machine learning is employed to automatically detect such potentially unfair clauses. Results show that the proposed system could provide a valuable tool for lawyers and consumers.  
 
-- **Lexical-Morphological Modeling for Legal Text Analysis** (2016), Danilo S. Carvalhol et al., DOI: 10.1007/978-3-319-50953-2 [[PDF]](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
+- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora** (2019), Ilias Chalkidis et al., 27: 171. https://doi.org/10.1007/s10506-018-9238-9 [[Citation](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
+From Abstract: The early adaptation of Deep Learning in legal analytics focusing on three main fields: text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the word2vec model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan.  
 
-- **Matching law cases and reference law provision with a neural attention model** (2016) G Tang et al., IBM China Research, Beijing [[PDF](https://scholar.google.com/scholar_lookup?title=Matching%20law%20cases%20and%20reference%20law%20provision%20with%20a%20neural%20attention%20model&author=G.%20Tang&author=H.%20Guo&author=Z.%20Guo&author=S.%20Xu&publication_year=2016)]  
-From Abstract: Due to the semantic complexity of law provisions and law cases, traditional methods cannot precisely characterize the deep semantic distribution of legal cases. In this paper, we propose a neural attention model for automatically matching reference law provisions. In this proposed model, a word by word attention mechanism is used to calculate pairwise comparisons between cases and law provisions, and then an output LSTM layer is used to summarize the comparisons and output the labels.  
-
-#### &nbsp;&nbsp;&nbsp;2017 ####
-
-- **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles** (2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
-
-- **A Convolutional Neural Network in Legal Question Answering** (2017), Mi-Young Kim et al., DOI: 10.1007/978-3-319-50953-2_20 [[PDF]](https://arxiv.org/pdf/1703.05320.pdf) 
-
-- **Exploring the use of text classification in the legal domain** (2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
-
-- **Extracting Contract Elements** (2017), Ilias Chalkidis et al. [[PDF]](http://www2.aueb.gr/users/ion/docs/icail2017.pdf)
-
-- **Legal Information Retrieval Using Topic Clustering and Neural Networks** (2017), Nanda1, Rohan et al. [[PDF]](https://www.easychair.org/publications/open/RC)  
-
-- **Legal NLP Introduction** (2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
-
-- **Legal Question Answering using Ranking SVM and Deep Convolutional Neural Network** (2017), P. Do et al. abs/1703.05320 [[PDF]](https://arxiv.org/abs/1703.05320)  
-
-- **Learning to predict charges for criminal cases with legal basis** (2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
-
-- **Mining Legal Data: Collecting and Analyzing 21st Century Gold** (2017), K. A. Grady, Journal of Internet Law, vol. 20, (7), pp. 1-21.[[Citation]](https://www.researchgate.net/publication/313745865_Mining_Legal_Data_Collecting_and_Analyzing_21st_Century_Gold)  
-
-- **Multi-Task CNN for Classification of Chinese Legal Questions** (2017), Guangyi Xiao et al. [[PDF on IEEE](https://ieeexplore.ieee.org/abstract/document/8119134)]  
-
-- **An Ontological Chinese Legal Consultation System** (2017), Ni Zhang et al. [[PDF on IEEE](https://ieeexplore.ieee.org/abstract/document/8016577)]  
-
-- **Predicting the Law Area and Decisions of French Supreme Court Cases** (2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1708.01681.pdf)]
-
-- **Text summarization from legal documents: a survey** (2017), Ambedkar Kanapala et al. [[PDF](https://link.springer.com/article/10.1007/s10462-017-9566-2)]  
+- **Semi-automatic knowledge population in a legal document management system** (2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [[PDF]](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)  
+From Abstract: This paper proposes several recurrent neural network-based models for recognizing requisite and effectuation (RE) parts in legal text. Recognizing requisite and effectuation parts, called the RRE task, can be modeled as a sequence labeling problem. They propose a modification of the Bidirectional Long Short-Term Memory-Conditional Random Fields model (BiLSTM-CRF) to include the use of external features to improve the performance of deep learning models in case a large annotated corpora is not available.  
 
 #### &nbsp;&nbsp;&nbsp;2018 ####
 
@@ -109,24 +83,51 @@ From Abstract: Due to the semantic complexity of law provisions and law cases, t
 
 - **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction** (2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
 
-#### &nbsp;&nbsp;&nbsp;2019 ####
+#### &nbsp;&nbsp;&nbsp;2017 ####
 
-- **Chat Analysis Triage Tool: Differentiating contact-driven vs. fantasy-driven child sex offenders** (2019), Kathryn C Seigfried-Spellar et al. Forensic Science International (Online); DOI:10.1016/j.forsciint.2019.02.028  
-From Abstract: The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
+- **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles** (2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
-- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service** (2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)  
-From Abstract: Terms of service of on-line platforms often contain clauses that are potentially unfair to the consumer. This paper describes an experimental study where machine learning is employed to automatically detect such potentially unfair clauses. Results show that the proposed system could provide a valuable tool for lawyers and consumers.  
+- **A Convolutional Neural Network in Legal Question Answering** (2017), Mi-Young Kim et al., DOI: 10.1007/978-3-319-50953-2_20 [[PDF]](https://arxiv.org/pdf/1703.05320.pdf) 
 
-- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora** (2019), Ilias Chalkidis et al., 27: 171. https://doi.org/10.1007/s10506-018-9238-9 [[Citation](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
-From Abstract: The early adaptation of Deep Learning in legal analytics focusing on three main fields: text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the word2vec model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan.  
+- **Exploring the use of text classification in the legal domain** (2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
 
-- **Semi-automatic knowledge population in a legal document management system** (2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [[PDF]](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)  
-From Abstract: This paper proposes several recurrent neural network-based models for recognizing requisite and effectuation (RE) parts in legal text. Recognizing requisite and effectuation parts, called the RRE task, can be modeled as a sequence labeling problem. They propose a modification of the Bidirectional Long Short-Term Memory-Conditional Random Fields model (BiLSTM-CRF) to include the use of external features to improve the performance of deep learning models in case a large annotated corpora is not available.  
+- **Extracting Contract Elements** (2017), Ilias Chalkidis et al. [[PDF]](http://www2.aueb.gr/users/ion/docs/icail2017.pdf)
+
+- **Legal Information Retrieval Using Topic Clustering and Neural Networks** (2017), Nanda1, Rohan et al. [[PDF]](https://www.easychair.org/publications/open/RC)  
+
+- **Legal NLP Introduction** (2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
+
+- **Legal Question Answering using Ranking SVM and Deep Convolutional Neural Network** (2017), P. Do et al. abs/1703.05320 [[PDF]](https://arxiv.org/abs/1703.05320)  
+
+- **Learning to predict charges for criminal cases with legal basis** (2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
+
+- **Mining Legal Data: Collecting and Analyzing 21st Century Gold** (2017), K. A. Grady, Journal of Internet Law, vol. 20, (7), pp. 1-21.[[Citation]](https://www.researchgate.net/publication/313745865_Mining_Legal_Data_Collecting_and_Analyzing_21st_Century_Gold)  
+
+- **Multi-Task CNN for Classification of Chinese Legal Questions** (2017), Guangyi Xiao et al. [[PDF on IEEE](https://ieeexplore.ieee.org/abstract/document/8119134)]  
+
+- **An Ontological Chinese Legal Consultation System** (2017), Ni Zhang et al. [[PDF on IEEE](https://ieeexplore.ieee.org/abstract/document/8016577)]  
+
+- **Predicting the Law Area and Decisions of French Supreme Court Cases** (2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1708.01681.pdf)]
+
+- **Text summarization from legal documents: a survey** (2017), Ambedkar Kanapala et al. [[PDF](https://link.springer.com/article/10.1007/s10462-017-9566-2)]  
+
+#### &nbsp;&nbsp;&nbsp;2016 ####
+
+- **Lexical-Morphological Modeling for Legal Text Analysis** (2016), Danilo S. Carvalhol et al., DOI: 10.1007/978-3-319-50953-2 [[PDF]](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
+
+- **Matching law cases and reference law provision with a neural attention model** (2016) G Tang et al., IBM China Research, Beijing [[PDF](https://scholar.google.com/scholar_lookup?title=Matching%20law%20cases%20and%20reference%20law%20provision%20with%20a%20neural%20attention%20model&author=G.%20Tang&author=H.%20Guo&author=Z.%20Guo&author=S.%20Xu&publication_year=2016)]  
+From Abstract: Due to the semantic complexity of law provisions and law cases, traditional methods cannot precisely characterize the deep semantic distribution of legal cases. In this paper, we propose a neural attention model for automatically matching reference law provisions. In this proposed model, a word by word attention mechanism is used to calculate pairwise comparisons between cases and law provisions, and then an output LSTM layer is used to summarize the comparisons and output the labels.  
+
+#### &nbsp;&nbsp;&nbsp;2014 ####
+
+- __Machine Learning and Law__ (2014). Harry Surden, Washington Law Review, Vol. 89, No. 1, (March 26, 2014). [[PDF](https://ssrn.com/abstract=2417415)]  
+From Abstract: This Article explores the application of machine learning techniques within the practice of law. Broadly speaking “machine learning” refers to computer algorithms that have the ability to “learn” or improve in performance over time on some task. In general, machine learning algorithms are designed to detect patterns in data and then apply these patterns going forward to new data in order to automate particular tasks. If performing well, machine learning algorithms can produce automated results that approximate those that would have been made by a similarly situated person.  
 
 ----------
 ### Current Project ###
 
 My current work employs NLP techniques to classify and compare text in Washington state's statutes, the Revised Code of Washington (RCW), and opinions from the Washington State Supreme Court.  
+
 Project details to be updated.  
 
 ### Future Work ###
