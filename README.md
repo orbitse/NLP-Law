@@ -6,8 +6,8 @@ The intersection between machine learning and the law has many names, _e.g._ com
 
 #### Repository Outline ####
   - [Relevant Projects](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-projects)
-  - [Relevant Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
-  - [Relevant Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
+  - [Example Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
+  - [Recent Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
   - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
   - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
 
@@ -35,7 +35,7 @@ The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for
 
 [Wevorce](https://www.wevorce.com) provides a self-guided online divorce for a fraction of the cost of a typical divorce settlement. Along with some support from real people, an AI-powered machine guides couples through the critical decisions in their particular circumstances; like TurboTax for divorces.
 
-### Relevant Papers ###
+### Recent Papers ###
 
 #### &nbsp;&nbsp;&nbsp;2019 ####
 
