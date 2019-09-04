@@ -5,11 +5,11 @@ This repository highlights recent natural language processing (NLP) work in the 
 The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. AI automation can help improve many aspects of the law. Programs can review contracts to identify risks and problematic language, assist with discovery, make predictions about the outcomes of legal proceedings, and help law enforcement identify criminal behavior. Lawyer-bots can even answer simple questions like in Joshua Browder's [DoNotPay app](https://itunes.apple.com/us/app/donotpay/id1427999657). But, in order to apply probabilistic models to the law, you need to understand legal language. Although, applying machine learning to the law is still quite new, it will likely become a disruptive force in the legal service industry.  
 
 #### Repository Outline ####
-  - [Relevant Projects](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-projects)
-  - [Example Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
-  - [Recent Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
-  - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
-  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
+  - [Relevant Projects](https://github.com/orbitse/NLP-Law#relevant-projects)
+  - [Example Companies](https://github.com/orbitse/NLP_Law#example-companies)
+  - [Recent Papers](https://github.com/orbitse/NLP-Law#recent-papers)
+  - [Current Project](https://github.com/orbitse/NLP-Law#current-project)  
+  - [Future Work](https://github.com/orbitse/NLP-Law#future-work)
 
 ----------
 
